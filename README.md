@@ -178,3 +178,44 @@
 
 ![image](https://user-images.githubusercontent.com/80065996/151822786-a46d63a3-2355-403e-af6d-973976dff4be.png)
 
+
+# Example,
+
+
+![image](https://user-images.githubusercontent.com/80065996/151838578-8e2e55c4-0498-4df0-9607-c2e4711b1c32.png)
+
+
+![image](https://user-images.githubusercontent.com/80065996/151838629-9c3e6dd7-1ceb-432e-853b-13d2cdd8c195.png)
+
+
+![image](https://user-images.githubusercontent.com/80065996/151838676-a27b6677-d756-411f-89ed-48f3d356d065.png)
+
+
+# Result:
+
+
+![image](https://user-images.githubusercontent.com/80065996/151838755-6e22be1f-d975-4f69-8788-dc70c6476bd3.png)
+
+
+# Another example with approach along with 'buffer'
+
+
+![image](https://user-images.githubusercontent.com/80065996/151841872-499bc42b-2afd-48b6-ad58-ad4a594cd0e1.png)
+
+
+![image](https://user-images.githubusercontent.com/80065996/151841970-16657552-7c53-4601-bde9-a5ed0c008b9a.png)
+
+
+# Result:
+
+
+![image](https://user-images.githubusercontent.com/80065996/151842019-7e5e399c-2ec1-4154-9480-a3d1f1f2b325.png)
+
+
+# Logical operators in go html template
+
+
+![image](https://user-images.githubusercontent.com/80065996/151842236-c06dbbca-edce-4b47-9426-2dd9176ee654.png)
+
+
+
