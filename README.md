@@ -218,4 +218,18 @@
 ![image](https://user-images.githubusercontent.com/80065996/151842236-c06dbbca-edce-4b47-9426-2dd9176ee654.png)
 
 
+# Using templates by reading JSON file separately
+
+# Create a file called "event.json"
+
+
+![image](https://user-images.githubusercontent.com/80065996/151922875-32def50d-8d60-4d3e-a8fa-5e4f5209c9b7.png)
+
+
+![image](https://user-images.githubusercontent.com/80065996/151922960-3a45cbf0-aabe-4ba7-b8b3-0ae1299c0114.png)
+
+
+![image](https://user-images.githubusercontent.com/80065996/151923009-22c851d8-f228-4b70-9c95-71ba53c83a57.png)
+
+
 
