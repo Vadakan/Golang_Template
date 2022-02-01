@@ -232,4 +232,24 @@
 ![image](https://user-images.githubusercontent.com/80065996/151923009-22c851d8-f228-4b70-9c95-71ba53c83a57.png)
 
 
+# "main.go" file used to retrieve the json file and fill the placeholders
+
+
+![image](https://user-images.githubusercontent.com/80065996/151947917-ca581db2-e278-4cfe-be21-d0c88ee61951.png)
+
+
+![image](https://user-images.githubusercontent.com/80065996/151947985-3279b112-87cf-4578-906d-a15c15015e1b.png)
+
+
+![image](https://user-images.githubusercontent.com/80065996/151948122-2dacfa1d-79be-450d-84d2-1d4c2ad14ed4.png)
+
+
+![image](https://user-images.githubusercontent.com/80065996/151948159-a7da6392-f514-4505-9713-8cbd2c441d6b.png)
+
+
+# result:
+
+
+![image](https://user-images.githubusercontent.com/80065996/151948258-1cc3a370-9fc2-4043-8591-6d1bcef4ed0d.png)
+
 
