@@ -253,3 +253,30 @@
 ![image](https://user-images.githubusercontent.com/80065996/151948258-1cc3a370-9fc2-4043-8591-6d1bcef4ed0d.png)
 
 
+# FUNCMAP concept
+
+# We cannot use basically dot operator(.) for a variable in JSON and check for values (for example .Variable == "condition"). This kind of check is not applicable
+# in the template. so we have to create a function and use 'funcmap' function to list all the functions we are going to use in the placeholder value of the template.
+# While mentioning the placeholder, we have to mention the name of the function and followed by parameters
+
+
+![image](https://user-images.githubusercontent.com/80065996/151964775-0b8cf56f-8465-4bed-b1ca-3f8ec4a0fec3.png)
+
+
+![image](https://user-images.githubusercontent.com/80065996/151964912-2c212d4a-0bb6-4cd0-b8fb-b09ef642ca94.png)
+
+
+# Result: Datas are coming from 'event.json' file.
+
+
+![image](https://user-images.githubusercontent.com/80065996/151964992-1975bab7-1cf4-4c91-8e87-88f4f55db97e.png)
+
+
+# Hyphen(-) symbol avoids trailing spaces
+
+
+![image](https://user-images.githubusercontent.com/80065996/151965746-ce97c36b-c389-465c-a458-4cc7d46aadf7.png)
+
+
+![image](https://user-images.githubusercontent.com/80065996/151965783-00096c77-d692-4b9e-9f68-20a3b3fd21bb.png)
+
